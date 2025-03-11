@@ -1,2 +1,1 @@
-# Ejercicio_Python_Base_Datos_SQLite
- Enunciado y solución de ejercicio resuelto en Python base datos SQLite
+Enunciado y solución de ejercicios resueltos en Python: acceso base de datos SQLite. Se incluye la descarga del código fuente completo de los ejercicios en Python. Se pedirá que se desarrolle un programa Python que cree una base de datos SQLite, una tabla, inserciones de registros en la tabla leyendo de un fichero CSV y consultas SQL. Más información en: https://proyectoa.com/enunciado-y-solucion-de-ejercicio-resuelto-en-python-base-datos-sqlite/
